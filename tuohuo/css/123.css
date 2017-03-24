@@ -1,0 +1,15 @@
+body,p,div,h1,h2,h3,h4,ul,li,a,img,em,i,strong,b,label,input,select,option,textarea{margin: 0;padding: 0;}
+img{border: 0 none;vertical-align: top;}
+a{text-decoration: none;}
+li{list-style: none;}
+body{font-family: "微软雅黑";font-size: 14px;}
+.mid-1{width: 100%; background: #e9e9e9;padding-bottom:88px;}
+.mid-2{width: 100% ;background:#8e49ec;padding-bottom:63px;}
+.mid-3{background: #ffe00d;padding-bottom: 41px;}
+
+
+.layer{width: 1004px;height: auto;margin: 0 auto;}
+.head{width: 560px; height: 70px;background: url(../img/header-123456.png)no-repeat;}
+.mid-1 .head{margin-left: 245px; background-position: -28px -19px;}
+.mid-2 .head{margin-left: 219px; background-position: -25px -115px;}
+.mid-3 .head{margin-left: 293px; background-position: -25px -210px;}
